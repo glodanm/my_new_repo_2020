@@ -19,6 +19,8 @@ void main()
 	
 		
 		printf("%c", emptyVal(mas));
+cout<<"Hello world";
+
 
 
 }
